@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lienan Wisner</h1>
 <h3 align="center">A passionate full stack developer & photographer from Argentina</h3>
 
-- 🔭 I’m currently working on [Henry Moon](https://henrymoon.vercel.app/)
+- 🔭 I’m currently working on [Grid Web Engine](https://www.gridwebengine.com/)
 
 - 👯 I’m looking to collaborate as **Front-end or Back-end developer**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lien.argentina@gmail.com**
 
-- ⚡ Fun fact **I love programming and taking pictures :)**
+- ⚡ Fun fact **I love programming and playing videogames too :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
